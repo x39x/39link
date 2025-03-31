@@ -13,12 +13,14 @@ a {
 /* ipad */
 @media screen and (max-width: 1024px) {
     #links {
+        margin: 63px auto;
         width: 63%;
     }
 }
 /* phone */
 @media screen and (max-width: 768px) {
     #links {
+        margin: 93px auto;
         width: 79%;
     }
 }
