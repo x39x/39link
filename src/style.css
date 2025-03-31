@@ -1,0 +1,24 @@
+a {
+    display: inline-block;
+    margin: 5px 0px;
+}
+
+#links {
+    width: 59%;
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+
+/* ipad */
+@media screen and (max-width: 1024px) {
+    #links {
+        width: 63%;
+    }
+}
+/* phone */
+@media screen and (max-width: 768px) {
+    #links {
+        width: 79%;
+    }
+}
