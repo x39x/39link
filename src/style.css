@@ -1,27 +1,28 @@
-a {
-    display: inline-block;
-    margin: 5px 0px;
-}
-
-#links {
+body {
     width: 59%;
     max-width: 600px;
     margin: 50px auto;
     display: flex;
-    flex-direction:column;
+    flex-direction: column;
 }
-
+a {
+    display: inline-block;
+    margin: 5px 0px;
+}
+.header a {
+    margin-right:  20px;
+}
 
 /* ipad */
 @media screen and (max-width: 1024px) {
-    #links {
+    body {
         margin: 63px auto;
         width: 63%;
     }
 }
 /* phone */
 @media screen and (max-width: 768px) {
-    #links {
+    body {
         margin: 93px auto;
         width: 79%;
     }
