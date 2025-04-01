@@ -7,10 +7,12 @@
     <body>
         <div id="header"></div>
         <div id="links"></div>
-        <script type="module" src="./src/header.js"></script>
         <script type="module">
-            import { renderLinks } from "./src/main.js";
-            import { links } from "./src/link/main.js";
+            import "../src/header.js";
+        </script>
+        <script type="module">
+            import { renderLinks } from "../src/main.js";
+            import { links } from "../bookmarks/dev.js";
             renderLinks("links", links);
         </script>
     </body>

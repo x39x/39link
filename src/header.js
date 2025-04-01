@@ -1,4 +1,5 @@
 import "./style.css";
+
 document.getElementById("header").innerHTML = `
     <div class="header">
         <a href="/">Home</a>

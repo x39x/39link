@@ -48,7 +48,7 @@ links["Gui"] = [
 ];
 
 links["Web UI"] = [
-    { url: "https://v2raya.org/", dsc: "v2rayA" },
+    { url: "https://v2raya.org/", dsc: "V2rayA" },
     {
         url: "https://github.com/haishanh/yacd",
         dsc: "Yet Another Clash Dashboard",
