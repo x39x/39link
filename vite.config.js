@@ -17,5 +17,7 @@ export default defineConfig({
                 tools: resolve(__dirname, "pages/tools.html"),
             },
         },
+        outDir: "../dist",
+        emptyOutDir: false,
     },
 });
