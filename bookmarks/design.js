@@ -24,4 +24,8 @@ links["Web Gallery"] = [
         url: "https://carloscuesta.me",
         dsc: " Carlos Cuesta",
     },
+    {
+        url: "https://sophiebits.com",
+        dsc: "Sophie Alpert",
+    },
 ];
