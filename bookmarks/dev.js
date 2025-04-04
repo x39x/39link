@@ -16,6 +16,14 @@ links["C++"] = [
         dsc: " Bjarne Stroustrup HOPL4 论文",
     },
     { url: "https://oi-wiki.org", dsc: "OI Wiki" },
+    {
+        url: "https://github.com/yuesong-feng/30dayMakeCppServer/tree/main",
+        dsc: "30天自制C++服务器",
+    },
+    {
+        url: "https://github.com/ossrs/srs",
+        dsc: "SRS is a simple, high-efficiency, real-time media server",
+    },
 ];
 
 links["Math"] = [
@@ -35,5 +43,9 @@ links["其他"] = [
     {
         url: "https://react-ui-libraries.vercel.app",
         dsc: "React UI libraries",
+    },
+    {
+        url: "https://www.zhihu.com/question/21483073/answer/2252761291",
+        dsc: "Nginx 能做什么好玩的事情",
     },
 ];
