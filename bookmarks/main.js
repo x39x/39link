@@ -19,6 +19,15 @@ links["TODO"] = [
         url: "https://nju-projectn.github.io/ics-pa-gitbook/ics2024/index.html",
         dsc: "南京大学 计算机系统基础 ",
     },
+    {
+        url: "https://github.com/XTLS/Xray-core/discussions/715",
+    },
+    {
+        url: "https://github.com/XTLS/REALITY",
+    },
+    {
+        url: "https://github.com/XTLS/Xray-examples/blob/main/VLESS-TCP-XTLS-Vision-REALITY/config_server.jsonc",
+    },
 ];
 
 links["Miku"] = [
