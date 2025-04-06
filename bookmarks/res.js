@@ -1,9 +1,30 @@
 export const links = {};
 
-links["动漫 音乐 电影"] = [
-    { url: "https://www.hifini.com", dsc: "HiFINI 无损音乐下载" },
+links["动漫 电影"] = [
     { url: "https://www.bugutv.vip", dsc: "布谷TV 4k影视资源" },
     { url: "https://zimuku.org", dsc: "字幕" },
+];
+
+links["无损音乐下载"] = [
+    { url: "https://www.hifini.com", dsc: "HiFINI" },
+    { url: "https://flac.life/", dsc: "无损生活" },
+];
+
+links["音乐搜索下载"] = [
+    { url: "https://xiageba.com", dsc: "下歌吧" },
+    { url: "https://www.gequbao.com", dsc: "歌曲宝" },
+    { url: "https://5sing.kugou.com", dsc: "5sing音乐" },
+    { url: "https://www.acgjc.com", dsc: "ACG漫音社" },
+    { url: "https://music.wandhi.com", dsc: "全网音乐搜索下载 1" },
+    {
+        url: "https://www.yeyulingfeng.com/tools/music",
+        dsc: "多站合一音乐搜索 2",
+    },
+    {
+        url: "https://music.wujiyan.cc",
+        dsc: "多站合一音乐搜索 3",
+    },
+    { url: "http://www.songe.cc", dsc: "多站合一音乐搜索 4" },
 ];
 
 links["漫画"] = [
