@@ -12,9 +12,10 @@ links["无损音乐下载"] = [
 ];
 
 links["音乐搜索下载"] = [
+    { url: "https://tonzhon.com", dsc: "♫ 铜钟" },
+    { url: "https://5sing.kugou.com", dsc: "5sing" },
     { url: "https://xiageba.com", dsc: "下歌吧" },
     { url: "https://www.gequbao.com", dsc: "歌曲宝" },
-    { url: "https://5sing.kugou.com", dsc: "5sing音乐" },
     { url: "https://www.acgjc.com", dsc: "ACG漫音社" },
     { url: "https://music.wandhi.com", dsc: "全网音乐搜索下载 1" },
     {
