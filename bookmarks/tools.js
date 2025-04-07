@@ -18,6 +18,13 @@ links["画图 图片处理"] = [
     { url: "https://bilibiliq.com", dsc: "bilibili 封面提取" },
 ];
 
+links["Net"] = [
+    {
+        url: "https://dnsspeedtest.online",
+        dsc: "DNS Speed Test Benchmark - Find the Fastest DNS Server for Your Location",
+    },
+];
+
 links["Math"] = [
     {
         url: "https://typst.app/docs/reference/symbols/sym/",
