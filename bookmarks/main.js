@@ -29,6 +29,12 @@ links["TODO"] = [
         url: "https://github.com/XTLS/Xray-examples/blob/main/VLESS-TCP-XTLS-Vision-REALITY/config_server.jsonc",
     },
 ];
+links["待看"] = [
+    {
+        url: "https://zh.moegirl.org.cn/zh-hans/%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97",
+        dsc: "物语系列",
+    },
+];
 
 links["Miku"] = [
     {
