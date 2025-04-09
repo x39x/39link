@@ -48,4 +48,8 @@ links["其他"] = [
         url: "https://www.zhihu.com/question/21483073/answer/2252761291",
         dsc: "Nginx 能做什么好玩的事情",
     },
+    {
+        url: "https://github.com/isno/theByteBook",
+        dsc: "深入高可用系统原理与设计",
+    },
 ];
