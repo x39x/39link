@@ -21,7 +21,7 @@ links["教程"] = [
 links["自建"] = [
     {
         url: "https://github.com/XTLS/Xray-core/discussions/715",
-        des: "Xray UUID",
+        dsc: "Xray UUID",
     },
     {
         url: "https://xtls.github.io/document/level-0/",
