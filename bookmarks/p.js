@@ -18,6 +18,24 @@ links["教程"] = [
         dsc: "Surge 配置",
     },
 ];
+links["自建"] = [
+    {
+        url: "https://github.com/XTLS/Xray-core/discussions/715",
+        des: "Xray UUID",
+    },
+    {
+        url: "https://xtls.github.io/document/level-0/",
+        dsc: "XTLS 文档",
+    },
+    {
+        url: "https://github.com/XTLS/Xray-examples/blob/main/VLESS-TCP-XTLS-Vision/README.md",
+        dsc: "VLESS XTLS VISION",
+    },
+    {
+        url: "https://github.com/XTLS/REALITY",
+        dsc: "XTLS REALITY",
+    },
+];
 
 links["Core"] = [
     { url: "https://github.com/klzgrad/naiveproxy/wiki", dsc: "NaiveProxy" },
