@@ -13,6 +13,7 @@ links["常用"] = [
 
 links["画图 图片处理"] = [
     { url: "https://iloveimg.com/zh-cn", dsc: "在线图片编辑器" },
+    { url: "https://www.remove.bg", dsc: "remove bg" },
     { url: "https://excalidraw.com", dsc: "Excalidraw" },
     { url: "https://tldraw.com", dsc: "tldraw" },
     { url: "https://bilibiliq.com", dsc: "bilibili 封面提取" },
