@@ -28,4 +28,12 @@ links["Web Gallery"] = [
         url: "https://sophiebits.com",
         dsc: "Sophie Alpert",
     },
+    {
+        url: "https://wodniack.dev/",
+        dsc: "Antoine",
+    },
+    {
+        url: "https://maxleiter.com/",
+        dsc: "Max Leiter",
+    },
 ];
