@@ -8,6 +8,10 @@ links["常用"] = [
 
 links["TODO"] = [
     {
+        url: "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
+        dsc: "Popular git config",
+    },
+    {
         url: "https://www.topgoer.com",
         dsc: "Go语言中文文档",
     },
