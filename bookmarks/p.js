@@ -4,10 +4,6 @@ links["资料"] = [
         url: "https://shadowsockshelp.github.io/Shadowsocks/Shadowsocks-wiki.html",
         dsc: "Shadowsocks 的前世今生",
     },
-    {
-        url: "https://gfw.report",
-        dsc: "Great Firewall Report",
-    },
 ];
 
 links["教程"] = [
