@@ -37,6 +37,10 @@ links["Math"] = [
 
 links["其他"] = [
     {
+        url: "https://doc.cherrychat.org",
+        dsc: "TypeScript & Node 平滑文档",
+    },
+    {
         url: "https://whycan.com",
         dsc: "哇酷开发者社区(硬件)",
     },
