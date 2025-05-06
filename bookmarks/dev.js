@@ -26,27 +26,24 @@ links["C++"] = [
     },
 ];
 
-links["Math"] = [
-    {
-        url: "https://typst.app/docs/reference/symbols/sym/",
-        dsc: "Typst Symbols",
-    },
-    { url: "https://kz16.top/latex/symbol/", dsc: "latex常用符号" },
-    { url: "https://www.latexstudio.net", dsc: "LaTeX 工作室" },
-];
-
-links["其他"] = [
+links["前端"] = [
     {
         url: "https://doc.cherrychat.org",
         dsc: "TypeScript & Node 平滑文档",
     },
     {
-        url: "https://whycan.com",
-        dsc: "哇酷开发者社区(硬件)",
+        url: "https://pagespeed.web.dev",
+        dsc: "Make your web pages fast on all devices",
     },
     {
         url: "https://react-ui-libraries.vercel.app",
         dsc: "React UI libraries",
+    },
+];
+links["其他"] = [
+    {
+        url: "https://whycan.com",
+        dsc: "哇酷开发者社区(硬件)",
     },
     {
         url: "https://www.zhihu.com/question/21483073/answer/2252761291",
@@ -56,4 +53,13 @@ links["其他"] = [
         url: "https://github.com/isno/theByteBook",
         dsc: "深入高可用系统原理与设计",
     },
+];
+
+links["Math"] = [
+    {
+        url: "https://typst.app/docs/reference/symbols/sym/",
+        dsc: "Typst Symbols",
+    },
+    { url: "https://kz16.top/latex/symbol/", dsc: "latex常用符号" },
+    { url: "https://www.latexstudio.net", dsc: "LaTeX 工作室" },
 ];
