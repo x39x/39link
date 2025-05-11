@@ -53,6 +53,10 @@ links["其他"] = [
         url: "https://github.com/isno/theByteBook",
         dsc: "深入高可用系统原理与设计",
     },
+    {
+        url: "https://github.com/dylanaraps/pure-bash-bible",
+        dsc: "Pure bash bible",
+    },
 ];
 
 links["Math"] = [
