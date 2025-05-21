@@ -57,6 +57,10 @@ links["其他"] = [
         url: "https://github.com/dylanaraps/pure-bash-bible",
         dsc: "Pure bash bible",
     },
+    {
+        url: "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
+        dsc: "Popular git config",
+    },
 ];
 
 links["Math"] = [
