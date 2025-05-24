@@ -61,6 +61,10 @@ links["其他"] = [
         url: "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
         dsc: "Popular git config",
     },
+    {
+        url: "https://zhuanlan.zhihu.com/p/20062978",
+        dsc: "如何拯救一台glibc被干掉的Linux服务器?",
+    },
 ];
 
 links["Math"] = [
