@@ -21,6 +21,10 @@ links["待看"] = [
         url: "https://zh.moegirl.org.cn/zh-hans/%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97",
         dsc: "物语系列",
     },
+    {
+        url: "https://zh.moegirl.org.cn/zh-hans/%E8%8D%AF%E5%B8%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%8B%AC%E8%AF%AD",
+        dsc: "药师少女的独语",
+    },
 ];
 
 links["Miku"] = [
