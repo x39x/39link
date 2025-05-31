@@ -2,6 +2,7 @@ export const links = {};
 
 links["动漫 电影"] = [
     { url: "https://www.bugutv.vip", dsc: "布谷TV 4k影视资源" },
+    { url: "https://www.xiaobaotv.com/", dsc: "小宝影院" },
     { url: "https://zimuku.org", dsc: "字幕" },
     { url: "https://yhdm6.top/", dsc: "樱花动漫" },
 ];
