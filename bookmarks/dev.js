@@ -65,6 +65,10 @@ links["其他"] = [
         url: "https://zhuanlan.zhihu.com/p/20062978",
         dsc: "如何拯救一台glibc被干掉的Linux服务器?",
     },
+    {
+        url: "https://gavinliu6.github.io/Makefile-Tutorial-zh-CN/#/",
+        dsc: "Makefile 教程",
+    },
 ];
 
 links["Math"] = [
