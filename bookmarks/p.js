@@ -49,6 +49,7 @@ links["Core"] = [
     { url: "https://xtls.github.io/", dsc: "Xray" },
     { url: "https://www.v2fly.org/", dsc: "V2ray" },
     { url: "https://github.com/SagerNet/sing-box", dsc: "Sing Box" },
+    { url: "https://github.com/daeuniverse/dae", dsc: "Dae" },
 ];
 
 links["Gui"] = [
