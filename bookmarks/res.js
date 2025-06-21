@@ -70,4 +70,8 @@ links["Mac 软件下载"] = [
         url: "https://xclient.info",
         dsc: "xclient",
     },
+    {
+        url: "https://decrypt.day/",
+        dsc: "IPA",
+    },
 ];
