@@ -70,12 +70,3 @@ links["其他"] = [
         dsc: "Makefile 教程",
     },
 ];
-
-links["Math"] = [
-    {
-        url: "https://typst.app/docs/reference/symbols/sym/",
-        dsc: "Typst Symbols",
-    },
-    { url: "https://kz16.top/latex/symbol/", dsc: "latex常用符号" },
-    { url: "https://www.latexstudio.net", dsc: "LaTeX 工作室" },
-];
