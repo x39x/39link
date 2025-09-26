@@ -25,6 +25,10 @@ links["待看"] = [
         url: "https://zh.moegirl.org.cn/zh-hans/%E8%8D%AF%E5%B8%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%8B%AC%E8%AF%AD",
         dsc: "药师少女的独语",
     },
+    {
+        url: "https://zh.moegirl.org.cn/%E7%AB%A0%E9%B1%BC%E5%99%BC%E7%9A%84%E5%8E%9F%E7%BD%AA",
+        dsc: "章鱼噼的原罪",
+    },
 ];
 
 links["Miku"] = [
