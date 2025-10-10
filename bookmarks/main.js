@@ -4,6 +4,7 @@ links["常用"] = [
     { url: "https://dash.cloudflare.com", dsc: "Cloudflare Dashboard" },
     { url: "https://www.codewars.com", dsc: "CodeWars" },
     { url: "https://741dm.com", dsc: "樱花动漫" },
+    { url: "https://grep.app/", dsc: "Github grep" },
 ];
 
 links["TODO"] = [
